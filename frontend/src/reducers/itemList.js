@@ -55,7 +55,7 @@ const reducer = (state = {}, action) => {
         itemsCount: action.payload.itemsCount,
         tab: null,
         currentPage: 0,
-      }
+      };
     case APPLY_TITLE_FILTER:
       return {
         ...state,
