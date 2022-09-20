@@ -1,4 +1,3 @@
-
 import React from "react";
 import logo from "../../imgs/logo.png";
 import SearchBar from "../SearchBar/SearchBar";
